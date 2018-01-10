@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="page_item_title_line">#d98e61ff</color>
+    <color name="timecolor">#7a787f</color>
+    <color name="splashtime">#fff000</color>
+    <color name="splashtext">#ded0ff</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

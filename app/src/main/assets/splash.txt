@@ -1,0 +1,10 @@
+{
+    "message": true,
+    "videoURL": "",
+    "imageURL": [
+            "http://i1.buimg.com/1949/5cf613b6027c2f41.jpg",
+            "http://i1.buimg.com/1949/5cf613b6027c2f41.jpg",
+            "http://i1.buimg.com/1949/5cf613b6027c2f41.jpg"
+    ],
+    "timestamp": "mock"
+}

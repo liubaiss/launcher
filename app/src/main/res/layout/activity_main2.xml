@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        android:id="@+id/baseLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        >
+
+
+    <HorizontalScrollView
+        android:layout_alignParentBottom="true"
+        android:id="@+id/tabs_HorizontalScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        >
+
+        <LinearLayout
+            android:id="@+id/tabs_LinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    </RelativeLayout>
+
+
+
+    <FrameLayout
+        android:id="@+id/base_splash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </android.support.v4.view.ViewPager>
+
+        <LinearLayout
+            android:layout_height="50px"
+            android:layout_width="160px"
+            android:id="@+id/ll_time"
+            android:visibility="invisible"
+            android:orientation="horizontal"
+            android:padding="1dp"
+            android:gravity="center"
+            android:background="@drawable/corners_bg"
+            >
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textColor="@color/splashtime"
+                android:layout_weight="1"
+                />
+
+            <View
+                android:id="@+id/v"
+                android:layout_width="1px"
+                android:layout_height="20px"
+                android:gravity="center"
+                android:background="@color/splashtext"/>
+
+            <TextView
+                android:id="@+id/ad"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="广告"
+                android:textColor="@color/splashtext"
+                android:layout_weight="1"
+                />
+
+
+        </LinearLayout>
+
+
+    </FrameLayout>
+
+
+
+
+
+
+
+</RelativeLayout>

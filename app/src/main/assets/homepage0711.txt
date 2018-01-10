@@ -1,0 +1,455 @@
+{
+    "timestamp": "20170711162843",
+    "message": true,
+    "data": [
+        {
+            "className": "com.pbtd.tv.live.activity.PlayActivity",
+            "createTime": 1497602877000,
+            "height": 214,
+            "id": 1,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/452e718c26ce262d.png",
+                "http://i4.piimg.com/599862/7d5eae572a14ce35.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/452e718c26ce262d.png\",\"http://i4.piimg.com/599862/7d5eae572a14ce35.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 100,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "state": 1,
+            "time": "17:40",
+            "titleName": "择天记",
+            "topMargin": 158,
+            "type": 4,
+            "vedioPlayUrl": "",
+            "width": 235
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.PlayActivity",
+            "createTime": 1497603459000,
+            "height": 453,
+            "id": 2,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/452e718c26ce262d.png",
+                "http://i4.piimg.com/599862/7d5eae572a14ce35.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/452e718c26ce262d.png\",\"http://i4.piimg.com/599862/7d5eae572a14ce35.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 360,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:40",
+            "titleName": "欢乐颂2",
+            "topMargin": 158,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 878
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.PlayActivity",
+            "createTime": 1497603006000,
+            "height": 214,
+            "id": 6,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/a9110e67ea72d79c.png",
+                "http://i4.piimg.com/599862/589bc7206b79d7fd.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/a9110e67ea72d79c.png\",\"http://i4.piimg.com/599862/589bc7206b79d7fd.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 100,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:40",
+            "titleName": "熊出没",
+            "topMargin": 397,
+            "type": 2,
+            "vedioPlayUrl": "",
+            "width": 235
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.PlayActivity",
+            "createTime": 1497603009000,
+            "height": 214,
+            "id": 7,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/3d3072d2e1fc41b5.png",
+                "http://i4.piimg.com/599862/5f984ac59387f3f9.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/3d3072d2e1fc41b5.png\",\"http://i4.piimg.com/599862/5f984ac59387f3f9.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 100,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:40",
+            "titleName": "熊出没",
+            "topMargin": 636,
+            "type": 2,
+            "vedioPlayUrl": "",
+            "width": 235
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.MainActivity",
+            "createTime": 1497603012000,
+            "height": 214,
+            "id": 8,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/759bc9dec07e936a.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/759bc9dec07e936a.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 360,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:40",
+            "titleName": "熊出没",
+            "topMargin": 636,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 427
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.MainActivity",
+            "createTime": 1497603014000,
+            "height": 214,
+            "id": 9,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/759bc9dec07e936a.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/1dfd030a5011371c.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 811,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:30",
+            "titleName": "白鹿原",
+            "topMargin": 636,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 427
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.MainActivity",
+            "createTime": 1499759335000,
+            "height": 214,
+            "id": 10,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/c8d7109fe1398dd2.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/c8d7109fe1398dd2.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 1263,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:30",
+            "titleName": "白鹿原",
+            "topMargin": 636,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 350
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.MainActivity",
+            "createTime": 1499759440000,
+            "height": 214,
+            "id": 11,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/6262360a6eb5e767.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/6262360a6eb5e767.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 1638,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:10",
+            "titleName": "白鹿原",
+            "topMargin": 158,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 351
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.PlayActivity",
+            "createTime": 1499759481000,
+            "height": 214,
+            "id": 12,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/d39d6c724454fd46.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/d39d6c724454fd46.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 1638,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:10",
+            "titleName": "白鹿原",
+            "topMargin": 397,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 351
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.PlayActivity",
+            "createTime": 1499759484000,
+            "height": 214,
+            "id": 13,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/3de8bd9ed29fe5ea.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/3de8bd9ed29fe5ea.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 1638,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:30",
+            "titleName": "龙珠传奇",
+            "topMargin": 636,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 351
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.MainActivity",
+            "createTime": 1499759487000,
+            "height": 453,
+            "id": 14,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/782c408fee553dbc.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/782c408fee553dbc.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 2014,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:30",
+            "titleName": "白鹿原",
+            "topMargin": 160,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 350
+        },
+        {
+            "className": "com.pbtd.tv.live.activity.PlayActivity",
+            "createTime": 1499759755000,
+            "height": 214,
+            "id": 15,
+            "imageUrl": [
+                "http://i4.piimg.com/1949/afbfcb889c845fa0.jpg"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/1949/afbfcb889c845fa0.jpg\"]",
+            "isShowTitle": 1,
+            "leftMargin": 2014,
+            "message": false,
+            "navId": 1,
+            "packageName": "com.pbtd.tv.live",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"木棒\",\"鸭子\",\"耳朵\",\"菜刀\",\"钩子\"]",
+            "paramValues": [
+                "木棒",
+                "鸭子",
+                "耳朵",
+                "菜刀",
+                "钩子"
+            ],
+            "time": "17:30",
+            "titleName": "白鹿原",
+            "topMargin": 636,
+            "type": 0,
+            "vedioPlayUrl": "",
+            "width": 350
+        }
+    ]
+}

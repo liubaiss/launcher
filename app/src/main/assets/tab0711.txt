@@ -1,0 +1,110 @@
+{
+    "timestamp": "20170711141634",
+    "message": true,
+    "data": [
+        {
+            "bussId": 1,
+            "className": "时间粉",
+            "createTime": 1497839045000,
+            "id": 37,
+            "imageUrl": [
+                "http://i4.piimg.com/599862/a1f669477f98c0ad.png",
+                "http://i4.piimg.com/599862/459f3132fddb4a20.png",
+                "http://i4.piimg.com/599862/d4fdbed72d68b16d.png"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/599862/a1f669477f98c0ad.png\",\"http://i4.piimg.com/599862/459f3132fddb4a20.png\",\"http://i4.piimg.com/599862/d4fdbed72d68b16d.png\"]",
+            "message": false,
+            "modifyTime": 1497839243000,
+            "navName": "ss",
+            "navRedirect": "ss",
+            "packageName": "胜多负少的 ",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"a\",\"b\",\"c\",\"d\",\"e\"]",
+            "paramValues": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+            ],
+            "position": 1,
+            "state": 0
+        }, {
+                      "bussId": 1,
+                      "className": "时间粉",
+                      "createTime": 1497839045000,
+                      "id": 38,
+                      "imageUrl": [
+                          "http://i4.piimg.com/599862/a1f669477f98c0ad.png",
+                          "http://i4.piimg.com/599862/459f3132fddb4a20.png",
+                          "http://i4.piimg.com/599862/d4fdbed72d68b16d.png"
+                      ],
+                      "imageUrls": "[\"http://i4.piimg.com/599862/a1f669477f98c0ad.png\",\"http://i4.piimg.com/599862/459f3132fddb4a20.png\",\"http://i4.piimg.com/599862/d4fdbed72d68b16d.png\"]",
+                      "message": false,
+                      "modifyTime": 1497839243000,
+                      "navName": "ss",
+                      "navRedirect": "ss",
+                      "packageName": "胜多负少的 ",
+                      "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+                      "paramKeys": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5"
+                      ],
+                      "paramValue": "[\"a\",\"b\",\"c\",\"d\",\"e\"]",
+                      "paramValues": [
+                          "a",
+                          "b",
+                          "c",
+                          "d",
+                          "e"
+                      ],
+                      "position": 1,
+                      "state": 0
+                  },
+        {
+            "bussId": 1,
+            "className": "告诉对方",
+            "createTime": 1497839111000,
+            "id": 39,
+            "imageUrl": [
+                "http://i4.piimg.com/599862/a1f669477f98c0ad.png",
+                "http://i4.piimg.com/599862/459f3132fddb4a20.png",
+                "http://i4.piimg.com/599862/d4fdbed72d68b16d.png"
+            ],
+            "imageUrls": "[\"http://i4.piimg.com/599862/a1f669477f98c0ad.png\",\"http://i4.piimg.com/599862/459f3132fddb4a20.png\",\"http://i4.piimg.com/599862/d4fdbed72d68b16d.png\"]",
+            "message": false,
+            "modifyTime": 1497839122000,
+            "navName": "dd",
+            "navRedirect": "dd",
+            "packageName": "水电费",
+            "paramKey": "[\"1\",\"2\",\"3\",\"4\",\"5\"]",
+            "paramKeys": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "paramValue": "[\"a\",\"b\",\"c\",\"d\",\"e\"]",
+            "paramValues": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+            ],
+            "position": 2,
+            "state": 0
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "timestamp": "20170711094547",
+    "message": false,
+    "backgroudUrl": "http://i1.buimg.com/599862/28ff90ef4ff49481.jpg",
+    "logoUrl": "http://i4.piimg.com/599862/9ee33c32aebdba97.png"
+}
